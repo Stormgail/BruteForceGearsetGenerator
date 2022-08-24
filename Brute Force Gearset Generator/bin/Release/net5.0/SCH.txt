@@ -1,0 +1,563 @@
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+Determination+36 x 1
+SpellSpeed+36 x 17
+DirectHitRate+36 x 3
+Food:
+Garlean Pizza
+Stats:
+DPS: 5916.94
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 508
+CriticalHit : 2172
+Determination : 1695
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 2
+Determination+36 x 3
+SpellSpeed+36 x 17
+Food:
+Garlean Pizza
+Stats:
+DPS: 5916.21
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 400
+CriticalHit : 2208
+Determination : 1767
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+SpellSpeed+36 x 17
+DirectHitRate+36 x 4
+Food:
+Garlean Pizza
+Stats:
+DPS: 5914.98
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 544
+CriticalHit : 2172
+Determination : 1659
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 2
+Determination+36 x 2
+SpellSpeed+36 x 17
+DirectHitRate+36 x 1
+Food:
+Garlean Pizza
+Stats:
+DPS: 5914.43
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 436
+CriticalHit : 2208
+Determination : 1731
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+Determination+36 x 1
+SpellSpeed+36 x 17
+DirectHitRate+36 x 4
+Food:
+Garlean Pizza
+Stats:
+DPS: 5914.06
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 544
+CriticalHit : 2136
+Determination : 1695
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+Determination+36 x 4
+SpellSpeed+36 x 17
+Food:
+Garlean Pizza
+Stats:
+DPS: 5913.89
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 400
+CriticalHit : 2172
+Determination : 1803
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+SpellSpeed+36 x 17
+DirectHitRate+36 x 5
+Food:
+Garlean Pizza
+Stats:
+DPS: 5913.50
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 580
+CriticalHit : 2136
+Determination : 1659
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+Determination+36 x 3
+SpellSpeed+36 x 17
+DirectHitRate+36 x 1
+Food:
+Garlean Pizza
+Stats:
+DPS: 5913.32
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 436
+CriticalHit : 2172
+Determination : 1767
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 2
+SpellSpeed+36 x 16
+DirectHitRate+36 x 4
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5912.07
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 598
+CriticalHit : 2111
+Determination : 1659
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+Determination+36 x 2
+SpellSpeed+36 x 17
+DirectHitRate+36 x 2
+Food:
+Garlean Pizza
+Stats:
+DPS: 5911.50
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 472
+CriticalHit : 2172
+Determination : 1731
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+Determination+36 x 1
+SpellSpeed+36 x 16
+DirectHitRate+36 x 4
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5911.32
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 598
+CriticalHit : 2075
+Determination : 1695
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 2
+Determination+36 x 1
+SpellSpeed+36 x 16
+DirectHitRate+36 x 3
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5911.19
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 558
+CriticalHit : 2111
+Determination : 1695
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+Determination+36 x 4
+SpellSpeed+36 x 17
+DirectHitRate+36 x 1
+Food:
+Garlean Pizza
+Stats:
+DPS: 5911.11
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 436
+CriticalHit : 2136
+Determination : 1803
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 6
+SpellSpeed+36 x 16
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5910.88
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 440
+CriticalHit : 2255
+Determination : 1659
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 1
+SpellSpeed+36 x 16
+DirectHitRate+36 x 5
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5910.70
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 638
+CriticalHit : 2075
+Determination : 1659
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+Determination+36 x 3
+SpellSpeed+36 x 17
+DirectHitRate+36 x 2
+Food:
+Garlean Pizza
+Stats:
+DPS: 5910.51
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 472
+CriticalHit : 2136
+Determination : 1767
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+Determination+36 x 2
+SpellSpeed+36 x 17
+DirectHitRate+36 x 3
+Food:
+Garlean Pizza
+Stats:
+DPS: 5910.11
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 508
+CriticalHit : 2136
+Determination : 1731
+Piety : 526
+SpellSpeed : 1473
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+Determination+36 x 1
+SpellSpeed+36 x 16
+DirectHitRate+36 x 5
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5910.06
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 638
+CriticalHit : 2039
+Determination : 1695
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+CriticalHit+36 x 5
+Determination+36 x 1
+SpellSpeed+36 x 16
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5909.71
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 440
+CriticalHit : 2219
+Determination : 1695
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------
+Gear:
+Call of the Abyss
+Augmented Lunar Envoy's Hairpin of Healing
+Abyssos Surcoat of Healing
+Augmented Lunar Envoy's Gloves of Healing
+Augmented Lunar Envoy's Longkilt of Healing
+Abyssos Boots of Healing
+Abyssos Earrings of Healing
+Augmented Lunar Envoy's Necklace of Healing
+Augmented Lunar Envoy's Bracelets of Healing
+Augmented Lunar Envoy's Ring of Healing
+Abyssos Ring of Healing
+Materia:
+SpellSpeed+36 x 16
+DirectHitRate+36 x 6
+Food:
+Piennolo Tomato Salad
+Stats:
+DPS: 5909.40
+GCD: 2.31
+Main Stat: 2949
+DirectHitRate : 674
+CriticalHit : 2039
+Determination : 1659
+Piety : 526
+SpellSpeed : 1476
+-------------------------------------------------

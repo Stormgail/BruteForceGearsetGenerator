@@ -1,0 +1,23 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "Settings": {
+    "getNewData": true,
+    "MaximumThreads":  11
+  },
+  "Values": {
+    "BigMateriaValue": 36,
+    "SmallMateriaValue": 12,
+    "minIlvl": 610,
+    "maxIlvl": 615,
+    "foodIlvl":  610
+  }
+
+}
