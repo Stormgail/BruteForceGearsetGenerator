@@ -139,7 +139,7 @@ namespace BruteForceGearsetGenerator
             baseGetBestURL = baseGetBestURL.Replace("<MINLVL>", ReferenceValues.MinIlvl.ToString());
             baseGetBestURL = baseGetBestURL.Replace("<MAXLVL>", ReferenceValues.MaxIlvl.ToString());
 
-            string baseGetRingURL = "https://xivapi.com/search?indexes=Item&string=Classical&filters=ClassJobCategory.<JOBNAME>=1,EquipSlotCategoryTargetID=12";
+            string baseGetRingURL = "https://xivapi.com/search?indexes=Item&string=Rinascita&filters=ClassJobCategory.<JOBNAME>=1,EquipSlotCategoryTargetID=12";
             baseGetRingURL = baseGetRingURL.Replace("<JOBNAME>", Job.Name);
 
             string baseGetFoodURL = "https://xivapi.com/search?indexes=Item&filters=LevelItem=<FOODILVL>,ItemKind.ID=5,ItemSearchCategory.ID=45,Bonuses.Vitality.ID=3&columns=ID,Bonuses,Name_en";

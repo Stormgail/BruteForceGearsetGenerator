@@ -16,7 +16,7 @@ namespace BruteForceGearsetGenerator.Class
             JobMod = 115;
 
             statToMinimise = SubStatEnum.Piety;
-            hasStatToMinimise = false;
+            hasStatToMinimise = true;
 
             optimalGCD.Add(2.5m);
             optimalGCD.Add(2.4m);
